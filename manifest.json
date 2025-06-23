@@ -1,12 +1,12 @@
 {
     "name": "Gurt Games; Gurt the Video Game",
-    "short_name": "TGurt",
+    "short_name": "Gurt",
     "theme_color": "#90ee90",
     "background_color": "#ffffff",
     "display": "standalone",
     "orientation": "landscape",
     "scope": "/",
-    "start_url": "/Gurt-Game-Web/",
+    "start_url": "/Gurt-Games-Web/",
     "icons": [{
         "src": "iconGURT.png",
         "sizes": "192x192",
